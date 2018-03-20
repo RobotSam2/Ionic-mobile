@@ -1,6 +1,6 @@
 {
   "name": "Ion-mobile",
-  "app_id": "",
+  "app_id": "a866e812",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
